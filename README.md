@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🌟 About Me
+##🌟 About Me
 
 🧑‍💻 I'm currently pursuing B.Tech in Computer Science and Engineering at Raj Kumar Goel Institute of Technology (2022–2026).
 
