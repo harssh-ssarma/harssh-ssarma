@@ -50,7 +50,7 @@ Object-Oriented Programming in C++: Functions - Coursera (University of London)
 
 📫 Connect with Me
 
-[LinkedIn](https://www.linkedin.com/in/harsh41sharma/) | [Portfolio](https://portfolio-three-orpin-29.vercel.app/) | [Email](mailto:harssh.ssarma@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/harsshssarma/) | [Portfolio]([https://harsh-sharma-portfolio.vercel.app/]) | [Email](mailto:harssh.ssarma@gmail.com)
 
 😄 Pronouns: He/Him
 
